@@ -1,19 +1,9 @@
-- name: Longest Word Game
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: Tradys
+  description: Explore traditional cultural experiences all over the world, by booking them through Tradys.
+  image: projects/tradys.jpg
+  url: https://tradys.herokuapp.com/
 
-- name: Movie Watchlist
-  description: Decent description of the app
+- name: Mirai Habit
+  description: A web app created to help users reduce their single-use plastic consumption by learning about plastic alternatives, and creating personal goals.
   image: projects/placeholder.png
-  url: https://www.google.com
-
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-
-- name: Final project
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+  url: https://miraihabit.herokuapp.com/
