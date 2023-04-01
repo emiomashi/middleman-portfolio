@@ -1,6 +1,9 @@
 .banner {
-  height: 100vh;
+  height: 200px;
+  width: 500px;
   background-image: url(/images/emiomashi.jpg);
   background-position: center center, center top;
   border-radius: 12px;
+  object-fit: scale-down;
+
 }
